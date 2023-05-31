@@ -162,3 +162,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#CMAKE
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
